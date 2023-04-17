@@ -39,3 +39,7 @@ _______________
 Comments	The PP and DNV Climate Change Services AS mutually agreed to discontinue the verification due to the general market conditions.
 _________________
 Last submitted at	13.10.2014 15:21:29
+_______________
+CDM Crediting Period	01 Feb 08 - 31 Jan 18 (Fixed)
+Monitoring report submitted for the period : 01 Feb 2008 - 31 Dec 2009 
+CDM Issuance request state: Awaiting issuance request
