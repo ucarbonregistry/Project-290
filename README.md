@@ -2,6 +2,8 @@
 9.8 MW Biomass based power generation unit at Khajuri
 
 # CDM Prior History: 
+______
+CDM Registered Project: Project: 1175
 _______________
 Reporting of status of a registered project activity or programme of activities
 _________________
